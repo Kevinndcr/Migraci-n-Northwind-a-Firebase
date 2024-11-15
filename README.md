@@ -47,12 +47,7 @@ python migracion_mySQL_to_Firebase.py
 ### Dependencias
 
   Las dependencias necesarias están listadas en el archivo `requirements.txt`. Puedes instalar todas ejecutando:
-
+´´´ bash
 pip install -r requirements.txt
-
-### Contenido de requirements.txt
-mysql-connector-python==8.0.33
-firebase-admin==5.4.0
-google-cloud-firestore==2.10.0
-setuptools==67.6.0
+´´´
 

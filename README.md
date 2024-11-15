@@ -43,13 +43,6 @@ python migracion_mySQL_to_Firebase.py
 - Si tienes datos de tipo Decimal en MySQL (como precios), conviértelos a tipos compatibles con Firestore (por ejemplo, float).
 - Puedes ver el progreso de la migración en la consola, y cualquier error se registrará en los logs.
 
-### Estructura del Proyecto
-
- migracion-mysql-firebase/
- │
- ├── migracion_mySQL_to_Firebase.py      # Script de migración
- ├── requirements.txt                    # Requisitos de Python
- └── firebase-credentials.json           # Credenciales de Firebase
 
 ### Dependencias
 
